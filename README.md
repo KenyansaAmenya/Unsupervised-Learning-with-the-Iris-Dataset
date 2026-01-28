@@ -1,5 +1,5 @@
-# Save this README to a file
-readme_content = '''# Iris Dataset Clustering Analysis Project
+
+# Iris Dataset Clustering Analysis Project
 
 ## 📋 Project Overview
 A comprehensive machine learning project exploring unsupervised learning techniques on the classic Iris dataset. This project demonstrates the complete workflow from data loading and exploration to K-Means clustering and optimal cluster selection using the Elbow Method.
